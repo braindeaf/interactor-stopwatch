@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["RobL"]
   spec.email = ["contact@robl.me"]
 
-  spec.summary = "TIMING"
-  spec.description = "TIMING"
+  spec.summary = "Stopwatch is a miniature Interactor extension that is watching the clock."
+  spec.description = "Stopwatch is a miniature Interactor extension that is watching the clock. It is a simple way to measure how long an interactor takes to run."
   spec.homepage = "https://github.com/braindeaf/interactor-stopwatch"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.0.0"

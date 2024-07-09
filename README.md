@@ -1,6 +1,6 @@
 # Interactor::Stopwatch
 
-
+Stopwatch is a miniature Interactor extension that is watching the clock.
 
 ## Installation
 
